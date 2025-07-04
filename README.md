@@ -47,21 +47,20 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaKumari&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaKumari&theme=radical" width="47%" />
-</p>
-
----
 
 ## 📌 Pinned Projects
 
 Check out some of my featured repositories to see what I’ve been building 🚀  
 👉 [DocOnDwar](https://github.com/11PRIA/DocOnDwaar.git)
+
+
 👉 [GuestBook](https://github.com/11PRIA/Guest_Book.git)
+
+
 👉 [RealTimeChatApplication](https://github.com/11PRIA/Real_Time_Chat_Application.git)
+
+
 👉 [CodeEditor](https://github.com/11PRIA/Code_Editor.git)
 
 
